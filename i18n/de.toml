@@ -1,0 +1,51 @@
+
+[blogAlias]
+other = "'s Blog"
+
+[aboutHeader]
+other = "Über"
+
+[home]
+other = "Home"
+
+[prevPage]
+other = "vorherige Seite"
+
+[nextPage]
+other = "nächste Seite"
+
+[flip]
+other = "Über mich"
+
+[clickToPopTagsAndCategories]
+other = "Hier klicken zum öffnen der Tags und Kategorien"
+
+[updateAt]
+other = "Zuletzt geupdated am"
+
+[returnHome]
+other = "Zurück zur Homepage"
+
+[noTag]
+other = "kein Tag"
+
+[archives]
+other = "Archiv"
+
+[tag]
+one = "Tag"
+other = "{{ .Count }} tags"
+
+[category]
+one = "Kategorie"
+other = "{{ .Count }} Kategorien"
+
+[allTags]
+other = "Alle Tags"
+
+[allCategories]
+other = "Alle Kategorien"
+
+[article]
+one = "1 Artikel"
+other = "{{ .Count }} Artikel"
